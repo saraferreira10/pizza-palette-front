@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Hey, this is a older project made only for learning purpose. Some thing in it can be a little deprecated. For this, I just have a new version of this:
+
 ## Available Scripts
 
 In the project directory, you can run:
